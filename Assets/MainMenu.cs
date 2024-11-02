@@ -19,5 +19,11 @@ public class MainMenu : MonoBehaviour
         Application.Quit();
         Debug.Log("APP is exiting"); // This line is useful for testing in the Unity editor
     }
+
+    // Method to return to the main menu
+    public void ReturnToMainMenu()
+    {
+        SceneManager.LoadSceneAsync(0); // Assumes the main menu is scene index 0
+    }
 }
 
