@@ -1227,8 +1227,13 @@ PrefabInstance:
         type: 3}
       propertyPath: m_PlanePrefab
       value: 
-      objectReference: {fileID: 1585201990951412, guid: 886609fc1566e4c27b399f1095d6de18,
+      objectReference: {fileID: 6697180595359948533, guid: 44ce5db775e9ab84ba646f4a8e87f8b3,
         type: 3}
+    - target: {fileID: 2512387470528047737, guid: 48cb3fb68c91eb94999fd99957eb0cae,
+        type: 3}
+      propertyPath: m_DetectionMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2512387470528047738, guid: 48cb3fb68c91eb94999fd99957eb0cae,
         type: 3}
       propertyPath: m_RootOrder
