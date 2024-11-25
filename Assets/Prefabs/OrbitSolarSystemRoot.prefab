@@ -666,7 +666,7 @@ GameObject:
   - component: {fileID: 7024770194375757261}
   - component: {fileID: 1476276374269281389}
   m_Layer: 0
-  m_Name: SolarSystemRoot
+  m_Name: OrbitSolarSystemRoot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
