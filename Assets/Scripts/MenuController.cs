@@ -17,7 +17,10 @@ public class MenuController : MonoBehaviour
     {
         SceneManager.LoadScene("MenuScene"); 
     }
-
+    public void LoadInstructScene()
+    {
+        SceneManager.LoadScene("InstructScene");
+    }
     public void QuitApplication()
     {
         Debug.Log("Application Quit");
