@@ -154,10 +154,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 839146248}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 14, y: -123}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 14, y: -120.16675}
+  m_SizeDelta: {x: -1240, y: -2984.3335}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &669837885
 MonoBehaviour:
@@ -179,19 +179,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '1. Click the main menu and navigate to the particular scene: ''Orbit Scene''
-    or ''Static''.
-
-
-    2. Wait for the panel to pop up, then tap the panel. The
-    planet will appear.
-
-
-    3. Use your finger to scale the planet, zooming in
-    and out.
-
-
-    4. Tap the back button to return to the main menu.'
+  m_text: "1. Ensure at least 7x7 meters of space for a full experience. \n\n2. Click
+    the main menu and navigate to the particular scene: 'Orbit Scene' or 'Static'.\n\n3.
+    Wait for the panel to pop up, then tap the panel. The planet will appear.\n\n4.
+    Use your finger to scale the planet, zooming in and out."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -254,7 +245,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -393.3078, y: -235.59814, z: -384.8003, w: -52.544678}
+  m_margin: {x: -393.3078, y: -617.0829, z: -559.75024, w: -52.544678}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
